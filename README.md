@@ -1,3 +1,9 @@
+<div align="center">
+<br />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:002b36,100:eee8d5&height=200&text&section=header)
+</div>
+
 # Hi, I'm Guilherme Correa!
 
 <br />
@@ -82,10 +88,8 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correacgui@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519982535264)
 
-</div>
+<div align="center">
 <br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling"/>
-</p>
-<br />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:002b36,100:eee8d5&height=200&section=footer)
+</div>
