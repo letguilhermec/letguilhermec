@@ -2,7 +2,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=24&pause=1000&color=268BD2&width=435&lines=Hellooooo!!!!;I+am+a+Full+Stack+Developer,;a+Tech+enthusiast,;and+an+overthinker!+%F0%9F%A4%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=24&pause=1000&color=268BD2&width=435&lines=Hellooooo!!!!;I+am+a+Full+Stack+Developer,;a+Tech+enthusiast;and+an+overthinker!+%F0%9F%A4%AF)](https://git.io/typing-svg)
 
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
@@ -56,7 +56,6 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=letguilhermec&show_icons=true&theme=solarized-dark&hide_border=true" />
 
 <br />
-<br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letguilhermec&langs_count=8&theme=solarized-dark&hide_border=true" />
 
@@ -69,9 +68,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=natours&theme=solarized-dark&hide_border=true)](https://github.com/letguilhermec/natours) 
-<br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=pursue&theme=solarized-dark&hide_border=true)](https://github.com/letguilhermec/pursue)
-<br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=livalo-api&theme=solarized-dark&hide_border=true)](https://github.com/letguilhermec/livalo-api)
 </div>
 <br />
