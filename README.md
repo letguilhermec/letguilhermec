@@ -12,11 +12,12 @@
 
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* ⚖️ Earned my Bachelor of Laws in late 2020.
-* 🦠 I took advantage of the pandemic (and the whole stay at home phase) and finally started studying programming.
+* ⚖️  Earned my Bachelor of Laws in late 2020.
+* 🦠 I took advantage of the covid pandemic (and the whole stay at home phase) and finally started studying programming.
 * 🖥️ As someone who loves all-things tech, programming was something I was always very curious about.
-* ❤️ I've since loved the challenges and learnings. I feel like I found my passion.
-* 😄 Pronouns: He/him
+* ❤️  I've since loved the challenges and learnings. I feel like I found my passion.
+* 📖 Recently started my degree in software engineering.
+* 😄 Pronouns: He/him.
 
 <br />
 
