@@ -74,9 +74,9 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <div align="center">
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=natours&theme=solarized-dark&hide_border=true)](https://github.com/letguilhermec/natours) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=pursue&theme=solarized-dark&hide_border=true)](https://github.com/letguilhermec/pursue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=livalo-api&theme=solarized-dark&hide_border=true)](https://github.com/letguilhermec/livalo-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=natours&theme=solarized-dark&layout=compact&hide_border=true)](https://github.com/letguilhermec/natours) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=pursue&theme=solarized-dark&layout=compact&hide_border=true)](https://github.com/letguilhermec/pursue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=livalo-api&theme=solarized-dark&layout=compact&hide_border=true)](https://github.com/letguilhermec/livalo-api)
 </div>
 <br />
 
