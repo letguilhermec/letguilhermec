@@ -60,7 +60,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <div align="center">
 <br /> 
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=letguilhermec&show_icons=true&theme=solarized-dark&hide_border=true)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=letguilhermec&layout=compact&show_icons=true&theme=solarized-dark&hide_border=true)
 
 <br />
 
