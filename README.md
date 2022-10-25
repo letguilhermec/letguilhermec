@@ -58,13 +58,13 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 ## 👨‍💻 Github Stats
 <br />
 <div align="center">
+<br /> 
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=letguilhermec&show_icons=true&theme=solarized-dark&hide_border=true)
+
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=letguilhermec&show_icons=true&theme=solarized-dark&hide_border=true" />
-
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letguilhermec&langs_count=8&theme=solarized-dark&hide_border=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letguilhermec&layout=compact&show_icons=true&theme=solarized-dark&hide_border=true)
 
 </div>
 <br />
