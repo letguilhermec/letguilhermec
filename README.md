@@ -4,19 +4,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:002b36,100:eee8d5&height=200&text&section=header)
 </div>
 
-# Hi, I'm Guilherme Correa!
+# Hey there! 👋 I'm Guilherme Correa
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=24&pause=1000&color=268BD2&width=435&lines=Hellooooo!!!!;I+am+a+Full+Stack+Developer,;a+Tech+enthusiast;and+an+overthinker!+%F0%9F%A4%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=26&pause=1000&color=AF005F&vCenter=true&random=false&width=850&lines=Lost+in+the+code%2C+but+loving+the+adventure+%F0%9F%A7%AD%F0%9F%92%BB;Turning+caffeine+into+code%2C+one+bug+at+a+time+%F0%9F%90%9B%F0%9F%92%BB%E2%98%95)](https://git.io/typing-svg)
 
-Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+I'd love to share a bit about myself with you. <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* ⚖️  Earned my Bachelor of Laws in late 2020.
-* 🦠 I took advantage of the covid pandemic (and the whole stay at home phase) and finally started studying programming.
-* 🖥️ As someone who loves all-things tech, programming was something I was always very curious about.
-* ❤️  I've since loved the challenges and learnings. I feel like I found my passion.
-* 📖 Recently started my degree in software engineering.
+* ⚖️  I earned my Bachelor of Laws in late 2020.
+* 🦠  During the COVID-19 pandemic and the subsequent stay-at-home phase, I seized the opportunity to dive into the world of programming.
+* 🖥️  Being a tech enthusiast, programming always piqued my curiosity.
+* ❤️  Since then, I've embraced the challenges and discoveries in the coding world, and I've found my passion.
+* 💼  Currently, I'm excited to be a Software Developer Intern at CI&T.
 * 😄 Pronouns: He/him.
 
 <br />
@@ -30,6 +30,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 ![](https://img.shields.io/badge/CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](https://img.shields.io/badge/JavaScript-002b36?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Swift-002b36?style=for-the-badge&logo=swift&logoColor=white)
 
 ![](https://img.shields.io/badge/Node.js-6c71c4?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-6c71c4?style=for-the-badge&logo=express&logoColor=white)
@@ -49,6 +50,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 ![](https://img.shields.io/badge/tmux-d33682?style=for-the-badge&logo=tmux&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-d33682?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/NeoVim-d33682.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/XCode-d33682.svg?&style=for-the-badge&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/eslint-d33682?style=for-the-badge&logo=eslint&logoColor=white)
 ![](https://img.shields.io/badge/prettier-d33682?style=for-the-badge&logo=prettier&logoColor=white)
 
