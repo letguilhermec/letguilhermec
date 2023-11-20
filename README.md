@@ -76,9 +76,7 @@ I'd love to share a bit about myself with you. <img src="https://emojis.slackmoj
 <div align="center">
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=natours&theme=solarized-dark&layout=compact&hide_border=true)](https://github.com/letguilhermec/natours) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=pursue&theme=solarized-dark&layout=compact&hide_border=true)](https://github.com/letguilhermec/pursue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letguilhermec&repo=livalo-api&theme=solarized-dark&layout=compact&hide_border=true)](https://github.com/letguilhermec/livalo-api)
+
 </div>
 <br />
 
